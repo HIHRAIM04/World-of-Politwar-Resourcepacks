@@ -1,2 +1,3 @@
 # World-of-Politwar-Resourcepacks
-Ресурспаки ролевого военно-политического Minecraft-сервера World of Politwar.
+Это репозитория ресурспаков ролевого военно-политического Minecraft-сервера World of Politwar.
+# [Наш Discord-сервер](https://discord.gg/QacJFtjMmS)
